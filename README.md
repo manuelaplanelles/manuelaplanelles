@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Manuela! </h1>
+<p align="center">
+  <img src="img/banner-git.gif" alt="Learning Curve Banner" width="100%">
+</p>
 
 <!--
 **manuelaplanelles/manuelaplanelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
