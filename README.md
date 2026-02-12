@@ -3,17 +3,26 @@
   <img src="img/banner-git.gif" alt="Learning Curve Banner" width="100%">
 </p>
 
-<!--
-**manuelaplanelles/manuelaplanelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 About me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Roadmap & Proyectos (En progreso)
+📔 **CYRA Architect:** Agente inteligente para gestión de hábitos y tiempo.
+
+🎨 **Nömada Shop:** E-commerce enfocado en diseño y decoración.
+
+🎫 **Al teu aire:** Plataforma para descubrir la agenda cultural local.
+
+🌊 **BlauHub:** Unificando biodiversidad marina y deportes náuticos.
+
+🥗 **Bonhomia:** Concepto de espacio de trabajo enfocado en nutrición y bienestar.
+
+🎓 **SCOTTY App:** Herramientas para entornos de aprendizaje innovadores.
+
+---
+
+### 🛠️ Toolstack
+
+---
