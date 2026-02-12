@@ -6,10 +6,12 @@
 ### 💡 About me
 
 
----
+<p align="center">
+  <img src="img/gif barra.gif" alt="Learning Curve Banner" width="100%">
+</p>
 
 ### 🚀 Roadmap & Proyectos (En progreso)
-📔 **CYRA Architect:** Agente inteligente para gestión de hábitos y tiempo.
+📔 **Cyra Architect:** Agente inteligente para gestión de hábitos y tiempo.
 
 🎨 **Nömada Shop:** E-commerce enfocado en diseño y decoración.
 
@@ -19,10 +21,14 @@
 
 🥗 **Bonhomia:** Concepto de espacio de trabajo enfocado en nutrición y bienestar.
 
-🎓 **SCOTTY App:** Herramientas para entornos de aprendizaje innovadores.
+🎓 **Scotty App:** Herramientas para entornos de aprendizaje innovadores.
 
----
+<p align="center">
+  <img src="img/gif barra.gif" alt="Learning Curve Banner" width="100%">
+</p>
 
 ### 🛠️ Toolstack
 
----
+<p align="center">
+  <img src="img/gif barra.gif" alt="Learning Curve Banner" width="100%">
+</p>
