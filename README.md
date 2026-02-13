@@ -57,7 +57,6 @@ I am a **Web Application Development (DAW)** student dedicated to building scala
 * 🧠 **Qualities:** My creative mind drives me to value order and business vision. I am learning to bridge technical complexity with human needs through communication and resilience. Currently, I optimize my workflow by experimenting with new tools and implementing **Scrum and Kanban** in my repositories. My approach combines autonomous learning with the study of psychosocial health and the real challenges of each role within a technical team.
 
 * 🌿 **FreeTime:** When I'm not immersed in research or coding, I recharge with all kinds of outdoor sports. I also collaborate on social actions to maintain a connection with society and never lose sight of human perspective and needs.
-* 📍 **Location:** Alicante, Spain. Available for opportunities worldwide.
 
 
 
