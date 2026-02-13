@@ -10,9 +10,6 @@
   <img src="https://img.shields.io/badge/Status-Building%20Solutions-success?style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="img/gif barra.gif" alt="Learning Curve Banner" width="100%">
-</p>
 
 ### 💡 Executive Summary
 I am a **Web Application Development (DAW)** student dedicated to building scalable solutions. My focus lies in the intersection of technical logic (**Java/SQL**) and user-centric design to solve real-world corporate challenges.
@@ -21,11 +18,9 @@ I am a **Web Application Development (DAW)** student dedicated to building scala
 * 🧩 **Vision:** Systems analysis, UX/UI prototyping, and Agile workflows.
 * 📍 **Based in:** Alicante, Spain (Available Worldwide).
 
-<p align="center">
-  <img src="img/gif barra.gif" alt="Learning Curve Banner" width="100%">
-</p>
 
-### 🛠️ Toolstack
+
+<h3 align="center">🛠️ Toolstack</h3>
 
 <div align="center">
 
@@ -38,9 +33,17 @@ I am a **Web Application Development (DAW)** student dedicated to building scala
 
 </div>
 
-<p align="center">
-  <img src="img/gif barra.gif" alt="Learning Curve Banner" width="100%">
-</p>
+
+
+### 🚀 Roadmap & Projects (In progress)
+* 📔 **Cyra Architect:** Smart agent for habit and time management.
+* 🎨 **Nömada Shop:** E-commerce focused on design and decoration.
+* 🎫 **Al teu aire:** Platform to discover the local cultural agenda.
+* 🌊 **BlauHub:** Unifying marine biodiversity and nautical sports.
+* 🥗 **Bonhomia:** Coworking space concept focused on nutrition and well-being.
+* 🎓 **Scotty App:** Tools for innovative learning environments.
+
+---
 
 ### 💡 About me
 * 🚀 **Builder:** **Web Application Development (DAW)** student driven by understanding the "how" and "why" behind tools to build solutions that truly make a difference. Currently perfecting **Java** to ensure code is clean, scalable, and efficient (Code Core).
@@ -56,27 +59,12 @@ I am a **Web Application Development (DAW)** student dedicated to building scala
 * 🌿 **FreeTime:** When I'm not immersed in research or coding, I recharge with all kinds of outdoor sports. I also collaborate on social actions to maintain a connection with society and never lose sight of human perspective and needs.
 * 📍 **Location:** Alicante, Spain. Available for opportunities worldwide.
 
-<p align="center">
-  <img src="img/gif barra.gif" alt="Learning Curve Banner" width="100%">
-</p>
 
-### 🚀 Roadmap & Projects (In progress)
-* 📔 **Cyra Architect:** Smart agent for habit and time management.
-* 🎨 **Nömada Shop:** E-commerce focused on design and decoration.
-* 🎫 **Al teu aire:** Platform to discover the local cultural agenda.
-* 🌊 **BlauHub:** Unifying marine biodiversity and nautical sports.
-* 🥗 **Bonhomia:** Coworking space concept focused on nutrition and well-being.
-* 🎓 **Scotty App:** Tools for innovative learning environments.
-
-<p align="center">
-  <img src="img/gif barra.gif" alt="Learning Curve Banner" width="100%">
-</p>
 
 > _ "My time in DAW isn't just about learning to code; it's about understanding the real challenges faced by technical teams. From database design to systems planning, I seek to master the language of development to lead projects in the future with a solid foundation and authentic communication across all areas." _
 
-<p align="center">
-  <img src="img/gif barra.gif" alt="Learning Curve Banner" width="100%">
-</p>
+
+---
 
 
 <h3 align="center">Connect with me 🤝</h3>
