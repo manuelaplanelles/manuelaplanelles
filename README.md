@@ -1,5 +1,47 @@
 <h1 align="center">Hi, I'm Manuela! 👋</h1>
 
+<p align="center">
+  <strong>DAW Student | Digital Product Builder | Java & Full-Stack</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Digital%20Products-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Current-Java%20&%20SQL-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Building%20Solutions-success?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="img/gif barra.gif" alt="Learning Curve Banner" width="100%">
+</p>
+
+### 💡 Executive Summary
+I am a **Web Application Development (DAW)** student dedicated to building scalable solutions. My focus lies in the intersection of technical logic (**Java/SQL**) and user-centric design to solve real-world corporate challenges.
+
+* 🛠️ **Core:** Java, SQL, and Infrastructure Security.
+* 🧩 **Vision:** Systems analysis, UX/UI prototyping, and Agile workflows.
+* 📍 **Based in:** Alicante, Spain (Available Worldwide).
+
+<p align="center">
+  <img src="img/gif barra.gif" alt="Learning Curve Banner" width="100%">
+</p>
+
+### 🛠️ Toolstack
+
+<div align="center">
+
+| Area | Tools |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,figma" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,idea,vscode" /> |
+| **Data** | <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" /> |
+| **Ops & Team** | <img src="https://skillicons.dev/icons?i=linux,git,github,notion" /> |
+
+</div>
+
+<p align="center">
+  <img src="img/gif barra.gif" alt="Learning Curve Banner" width="100%">
+</p>
+
 ### 💡 About me
 * 🚀 **Builder:** **Web Application Development (DAW)** student driven by understanding the "how" and "why" behind tools to build solutions that truly make a difference. Currently perfecting **Java** to ensure code is clean, scalable, and efficient (Code Core).
   
@@ -36,17 +78,15 @@
   <img src="img/gif barra.gif" alt="Learning Curve Banner" width="100%">
 </p>
 
-<h3 align="center">🛠️ Toolstack</h3>
-<div align="center">
 
-| Area | Tools and Languages |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" /> |
-| **Backend & Logic** | <img src="https://skillicons.dev/icons?i=java,idea,vscode" /> <br> *Data Structures & OOP* |
-| **Data & S.A.S.** | <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" /> <br> *SQL Server, XML, XPath, BaseX, ERP/CRM* |
-| **Analysis & Planning** | <img src="https://skillicons.dev/icons?i=figma" /> <br> *UML (Class/Behavioral Diagrams), Systems Analysis* |
-| **Infrastructure** | <img src="https://skillicons.dev/icons?i=linux,windows,paloalto" /> <br> *Networking, Security and Operating Systems* |
-| **Product Management & Team** | <img src="https://skillicons.dev/icons?i=git,github,notion,discord" /> <br> *Jira, Trello, Agile Methodologies (Scrum/Kanban)* |
+<h3 align="center">Connect with me 🤝</h3>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_LINK"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" /></a>
+  <a href="YOUR_INSTAGRAM_LINK"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="35" /></a>
+  <a href="YOUR_DISCORD_LINK"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" /></a>
+</p>
+
 
 <p align="center">
   <img src="img/gif barra.gif" alt="Learning Curve Banner" width="100%">
