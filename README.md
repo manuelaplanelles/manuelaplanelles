@@ -28,7 +28,7 @@ I am a **Web Application Development (DAW)** student dedicated to building scala
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,wordpress,js" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=java,idea,vscode" /> |
-| **Data** | <img src="https://skillicons.dev/icons?i=mysql,sqlserver,sqlite" /> |
+| **Data** | <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgres,sqlite" /> |
 | **Ops & Team** | <img src="https://skillicons.dev/icons?i=linux,git,github,notion" /> |
 
 </div>
